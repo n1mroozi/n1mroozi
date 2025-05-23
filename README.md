@@ -10,10 +10,6 @@ Full-stack app development, research, and learning.
 **Hobbies & Interests:**  
 I find this to be my hobby, along with playing rocket league and tinkering with Minecraft mods.
 
-⚡ **Fun Fact:**  
-[Check this out 😱](https://www.n1mroozi.io/venus)
-
-
 ## Find me on:
 <p align="left">
 <a href="https://linkedin.com/in/nick-nimroozi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-nimroozi" height="30" width="40" /></a>
